@@ -4,10 +4,6 @@
 - Currently, I am advancing my skills in Python, Django, and machine learning.
 
 
-### Greetings, I am Nur Hosain Likhon.
-I hold a degree in Computer Science and Engineering from Dhaka International University. My interests include web development and academic research. Currently, I am advancing my skills in Python, Django, and machine learning.
-
-
 #### Technologies & Tools 🔧
 
 ![C](https://img.shields.io/badge/-C-555555?style=flat-square&logo=c)
