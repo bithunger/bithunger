@@ -1,10 +1,9 @@
 #### 👋 I'm Nur Hosain Likhon.
-<hr style="border: 0.05px solid #ccc;"/>
 
-#### About Me 🚀
--🎓 Graduated in Computer Science and Engineering from Dhaka International University. 
--👀 Interested in web development and research.
--🌱 Currently learning Python, Django, and machine learning.
+### I'm
+- 🎓 Graduated in Computer Science and Engineering from Dhaka International University.
+- 👀 Interested in web development and research.
+- 🌱 Currently learning Python, Django, and machine learning.
 
 #### Technologies & Tools 🔧
 
