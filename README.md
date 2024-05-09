@@ -1,8 +1,9 @@
-#### 👋 I'm Nur Hosain Likhon.
+### 👋 I'm Nur Hosain Likhon.
 - 🎓 Graduated in Computer Science and Engineering from Dhaka International University.
 - 👀 Interested in web development and research.
 - 🌱 Currently learning Python, Django, and machine learning.
 
+<br>
 
 #### Technologies & Tools 🔧
 
@@ -20,11 +21,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
+<br>
 
 #### Projects 💻
 
 &#9679; [Skin Cancer Classification](https://github.com/bithunger/skin_cancer_classification) &#9679; [Unique Patient](https://github.com/bithunger/Unique-Patient) &#9679; [Meal Management](https://github.com/bithunger/meal_management)
 
+<br>
 
 #### [![Connect with Me on LinkedIn](https://img.shields.io/badge/-Connect%20with%20Me%20on%20LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-hosain-likhon/)
-
