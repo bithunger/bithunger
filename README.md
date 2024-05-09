@@ -26,5 +26,5 @@
 &#9679; [Skin Cancer Classification](https://github.com/bithunger/skin_cancer_classification) &#9679; [Unique Patient](https://github.com/bithunger/Unique-Patient) &#9679; [Meal Management](https://github.com/bithunger/meal_management)
 
 
-#### [![Connect with Me in LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-hosain-likhon/)
+#### [![Connect with Me on LinkedIn](https://img.shields.io/badge/-Connect%20with%20Me%20on%20LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-hosain-likhon/)
 
