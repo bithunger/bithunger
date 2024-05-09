@@ -2,10 +2,12 @@
 <hr style="border: 0.1px solid #ccc;"/>
 
 #### About Me 🚀
-
-🎓 Graduated in Computer Science and Engineering from Dhaka International University.
+🎓 Graduated in Computer Science and Engineering from Dhaka International University. 
 👀 Interested in web development and research.
 🌱 Currently learning Python, Django, and machine learning.
+
+#### About Me 🚀
+Graduated in Computer Science and Engineering from Dhaka International University. Interested in web development and research. Currently learning Python, Django, and machine learning.
 
 #### Technologies & Tools 🔧
 
@@ -27,5 +29,6 @@
 
 &#9679; [Skin Cancer Classification](https://github.com/bithunger/skin_cancer_classification) &#9679; [Unique Patient](https://github.com/bithunger/Unique-Patient) &#9679; [Meal Management](https://github.com/bithunger/meal_management)
 
-#### Connect with Me in [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-hosain-likhon/)
+#### Connect with Me 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-hosain-likhon/)
 
