@@ -1,11 +1,9 @@
-### 👋 I'm Nur Hosain Likhon.
-
+## 👋 I'm Nur Hosain Likhon.
 
 #### About Me 🚀
 🎓 I graduated in Computer Science and Engineering from Dhaka International University.  
 👀 I’m interested in Web development, Researching.  
 🌱 I’m currently learning Python-Django, ML.  
-📫 How to reach me: nurhosainlikhon.@gmail.com
 
 #### Technologies & Tools 🔧
 
@@ -28,6 +26,5 @@
 - [Unique Patient](https://github.com/bithunger/Unique-Patient).
 - [Meal Management](https://github.com/bithunger/meal_management).
 
-#### Connect with Me 🤝
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nur-hosain-likhon/)](https://www.linkedin.com/in/nur-hosain-likhon/)
+#### Connect with Me in [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nur-hosain-likhon/)](https://www.linkedin.com/in/nur-hosain-likhon/)
 
