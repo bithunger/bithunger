@@ -1,12 +1,12 @@
-## 👋 I'm Nur Hosain Likhon.
+### 👋 I'm Nur Hosain Likhon.
 
-### About Me 🚀
-🎓 I graduated in CSE at Dhaka International Univerity.  
-👀 I’m interested in Web development.  
-🌱 I’m currently learning Python-Django.  
+#### About Me 🚀
+🎓 I graduated in Computer Science and Engineering from Dhaka International University.  
+👀 I’m interested in Web development, Researching.  
+🌱 I’m currently learning Python-Django, ML.  
 📫 How to reach me: nurhosainlikhon.@gmail.com
 
-### Technologies & Tools 🔧
+#### Technologies & Tools 🔧
 
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -21,13 +21,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-### Projects 🌟
+#### Projects 🌟
 
 - [Skin Cancer Classification](https://github.com/bithunger/skin_cancer_classification).
 - [Unique Patient](https://github.com/bithunger/Unique-Patient).
 - [Meal Management](https://github.com/bithunger/meal_management).
 
-### Connect with Me 🤝
-
+#### Connect with Me 🤝
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nur-hosain-likhon/)](https://www.linkedin.com/in/nur-hosain-likhon/)
 
