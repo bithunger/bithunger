@@ -7,7 +7,8 @@
 #### Technologies & Tools 🔧
 
 ![C](https://img.shields.io/badge/-C-555555?style=flat-square&logo=c)
-![PHP](https://img.shields.io/badge/-php-306998?style=flat-square&logo=Php&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-306998?style=flat-square&logo=Php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-306998?style=flat-square&logo=Laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
