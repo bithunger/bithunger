@@ -1,12 +1,13 @@
 ### Greetings, I'm Nur Hosain Likhon.
 - I hold a degree in Computer Science and Engineering from Dhaka International University.
 - My interests include web development and academic research.
-- Currently, I am advancing my skills in Python, Django, and Machine Learning.
+- Currently, I am advancing my skills in PHP, Laravel, Django, and Machine Learning.
 
 
 #### Technologies & Tools 🔧
 
 ![C](https://img.shields.io/badge/-C-555555?style=flat-square&logo=c)
+![PHP](https://img.shields.io/badge/-php-306998?style=flat-square&logo=Php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
