@@ -1,4 +1,4 @@
-### Greetings, I'm Nur Hosain Likhon.
+### Greetings, I'm Md Nur Hosain Likhon.
 - I hold a degree in Computer Science and Engineering from Dhaka International University.
 - My interests include web development and academic research.
 - Currently, I am advancing my skills in PHP, Laravel, Python, Django, and Machine Learning.
